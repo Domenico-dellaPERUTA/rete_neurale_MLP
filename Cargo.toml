@@ -1,0 +1,9 @@
+[package]
+name = "my-rust-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+nalgebra = "0.31.0"
+csv = "1.1"
